@@ -1,0 +1,15 @@
+{
+    "name": "paulocorazza/loja",
+    "description": "loja com php puro",
+    "autoload": {
+        "psr-4": {
+            "Paulocorazza\\Loja\\": "src/"
+        }
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "core\\" : "core/"
+        }
+    }
+}
