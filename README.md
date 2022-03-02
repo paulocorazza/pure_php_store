@@ -1,1 +1,1 @@
-# pure_php_store
+# Sistema de loja feito com PHP puro
