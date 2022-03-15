@@ -1,11 +1,14 @@
 <?php
 
-use core\classes\Database;
-
+// abrir a sessao
 session_start();
 
+// carregar o config
 require_once('../config.php');
-require_once('../vendor/autoload.php');
-require_once('../core/rotas.php');
 
+// carrega todas as classes do projeto
+require_once('../vendor/autoload.php');
+
+// carrega o sistema de rotas
+require_once('../core/rotas.php');
 

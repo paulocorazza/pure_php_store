@@ -1,6 +1,6 @@
 <?php
 
-namespace core\classes;
+namespace basic\classes;
 
 use Exception;
 use PDO;
